@@ -1,0 +1,1 @@
+C:\XPARQ\xparq-coin\xparq-core\target\debug\xparq-core.exe: C:\XPARQ\xparq-coin\xparq-core\src\block.rs C:\XPARQ\xparq-coin\xparq-core\src\blockchain.rs C:\XPARQ\xparq-coin\xparq-core\src\crypto.rs C:\XPARQ\xparq-coin\xparq-core\src\main.rs C:\XPARQ\xparq-coin\xparq-core\src\transaction.rs
